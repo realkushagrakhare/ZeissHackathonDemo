@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef7239c46ddb6ab469994291c9603c01, type: 3}
+  m_Name: CityBlueBuildingStack
+  m_EditorClassIdentifier: 
+  MeshModifiers:
+  - {fileID: 11400000, guid: 0f4832d5172bcfa409c18a497d0a637f, type: 2}
+  - {fileID: 11400000, guid: 0a8cc135c7dac8d418c465596824b4c4, type: 2}
+  - {fileID: 11400000, guid: 4ef442c1cbfbc2644a80c59d044acef9, type: 2}
+  - {fileID: 11400000, guid: 077494bf0ae44cd4086ed2fc97aa4e71, type: 2}
+  GoModifiers:
+  - {fileID: 11400000, guid: 25b86c2af24c0d54fb406770e18e06e1, type: 2}
